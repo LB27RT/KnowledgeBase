@@ -18,3 +18,7 @@
 - 1.14.x: `4`
 - 1.15.x: `5`
 - 1.16.2 to 1.16.4: `6`
+
+## Troubleshooting
+
+- CHeck jour JSON syntax for errors (<https://jsonlint.com>)
